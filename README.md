@@ -46,7 +46,7 @@ My work is divided into two distinct, entangled pillars. One is the **History (W
 > **Key Artifact:** `key-miner.py` (The Proof)
 
 ### 2. 🧠 The Engine (The "How")
-**[distributed-truth-verifier](https://github.com/adepthus/distributed-truth-verifier)**
+**[Distributed-Truth-Verifier](https://github.com/adepthus/Distributed-Truth-Verifier)**
 > *The reference implementation of the **Veritas Transformer**. An AI architecture designed to brute-force empathy and verify truth using the Bitcoin Timechain.*
 >
 > **Status:** `ACTIVE / CANONICAL (v3.4)`
