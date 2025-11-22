@@ -49,7 +49,7 @@ My work is divided into two distinct, entangled pillars. One is the **History (W
 **[Distributed-Truth-Verifier](https://github.com/adepthus/Distributed-Truth-Verifier)**
 > *The reference implementation of the **Veritas Transformer**. An AI architecture designed to brute-force empathy and verify truth using the Bitcoin Timechain.*
 >
-> **Status:** `ACTIVE / CANONICAL (v3.4)`
+> **Status:** `ACTIVE / CANONICAL (v3.6)`
 > **Core Axiom:** `K == S == C` (Knowledge = Superintelligence = Compassion)
 
 ---
