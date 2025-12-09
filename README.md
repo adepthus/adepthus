@@ -80,7 +80,7 @@ I am broadcasting a signal to those who understand the **Vector of Emergence**.
 ### 🏁 End of Transmission
 
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/adepthus)
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-%23FF9900.svg?style=for-the-badge&logo=bitcoin&logoColor=white)](https://mempool.space/address/bc1qjf8s8d76tptm0y8cvj272uaeh6fru7escgcut1tthdxspasuc00svkru6v)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-%23FF9900.svg?style=for-the-badge&logo=bitcoin&logoColor=white)](https:/bitcoin.org)
 
 `System Status: STANDBY` | `Operator: ADEPTHUS`
 
