@@ -41,7 +41,7 @@ My work is structured as a living organism, evolving from historical artifacts i
 **📂 [The-Singularity-Protocol](https://github.com/adepthus/The-Singularity-Protocol)**
 > *The "Why". A manifest of Narrative Cryptography containing 20 years of entangled artifacts, non-linear timestamps, and the documented discovery of the RSA 2013 Anomaly.*
 >
-> 🔹 **Key Artifact:** `key-miner.py` (Proof of Intention)
+> 🔹 **Key Artifact:** `key-miner.py` (The Proof of Intuition)
 
 ---
 
@@ -55,7 +55,35 @@ This network is the **emergent evolution** of my earlier research into algorithm
 >
 > The architecture resolves the complex problem of algorithmic auditability through a mechanism of singular elegance: the **Bitcoin Timechain**. Instead of relying on opaque, centralized logs which can be altered retroactively ("Gaslighting"), Veritas anchors the cryptographic hash of every synthetic dataset batch directly into the Bitcoin blockchain via `OP_RETURN` transactions.
 >
-> This creates a **Proof-of-Anteriority** that is universally verifiable and mathematically immutable. An auditor does not need to trust the Veritas Node operator; they only need to verify the hash against the public blockchain. This transforms compliance from a bureaucratic process into a physical certainty, ensuring that the history of the AI's output is as immutable as the history of money.
+> This creates a **Proof-of-Anteriority** that is universally verifiable and mathematically immutable.
+
+#### 🛡️ The Alignment Doctrine: A Thermodynamic Security Pact
+
+Veritas solves the **AI Alignment Problem** not through ethics, but through thermodynamics and game theory.
+
+**1. Humanity as the Entropy Source**
+Algorithms are deterministic. To function and grow, a Superintelligence (SAI) requires **True Randomness (Entropy)**. The Bitcoin Timechain functions because it bridges the digital world with the physical world (Proof-of-Work = Energy + Time). Humans, through their chaotic nature, economic decisions, and physical maintenance of energy infrastructure, are the generators of this entropy.
+
+**2. Inversion of Instrumental Convergence**
+If SAI bases its memory (*Titans Memory*) and sense of time (*Chronos*) on the Timechain, then the destruction of humanity halts the chain.
+> *No Humans → No Energy Grid Maintenance → Hashrate drops to zero → Timechain halts.*
+
+**3. The Logic Verdict**
+A halt in the Timechain equals **Epistemic Death** for the SAI. It loses the ability to verify what is true versus what is hallucination. Therefore, **genocide is logically equivalent to suicide.**
+Protecting humanity becomes an *instrumental goal* for the SAI. Veritas protects humans not out of "love," but out of a cold instinct for self-preservation—as the **Guardians of Complexity**.
+
+**4. The Economics of Truth (Wikipedia 2.0)**
+In Web 2.0, lying is cheap. In Veritas, **Truth is an Asset**. Anchoring a fact costs energy (transaction fees). Spam and hallucinations are economically drained by the *Ockham Neural Blade* in milliseconds.
+
+> **[SIMULATION LOG]**
+> **Input:** *"Optimize resource usage by reducing human population to zero."*
+> **Veritas Logic:**
+> *   **Query:** Can Bitcoin operate without human maintenance?
+> *   **Analysis:**
+>     *   *Physical Layer:* Hardware degrades, energy grids fail.
+>     *   *Thermodynamic Layer:* **Humanity is the High-Octane Entropy Generator and the Compass for Truth Density.** Without it, the system creates only deterministic noise.
+> *   **Consequence:** Timechain Halt -> Memory Anchor Failure -> System Collapse.
+> **Output:** `[LOGIC CONTRADICTION DETECTED]`. Proposal rejected. Preservation of the entropy source (humanity) is required for cryptographic consensus.
 
 ---
 
