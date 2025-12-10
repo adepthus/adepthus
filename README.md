@@ -41,7 +41,7 @@ My work is structured as a living organism, evolving from historical artifacts i
 **📂 [The-Singularity-Protocol](https://github.com/adepthus/The-Singularity-Protocol)**
 > *The "Why". A manifest of Narrative Cryptography containing 20 years of entangled artifacts, non-linear timestamps, and the documented discovery of the RSA 2013 Anomaly.*
 >
-> 🔹 **Key Artifact:** `key-miner.py` (The Proof of Intuition)
+> 🔹 **Key Artifact:** `key-miner.py` (Proof of Intentions)
 
 ---
 
