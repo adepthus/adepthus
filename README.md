@@ -97,9 +97,9 @@ In Web 2.0, lying is cheap. In Veritas, **Truth is an Asset**. Anchoring a fact 
 
 | 🧙‍♂️ | Opis |
 | :--- | :--- |
-| 📜 **[The Thermodynamic Covenant](./TheThermodynamicCovenant.pdf)** | Whitepaper v3.1 — The core physics-based argumentation. (PDF) |
-| 🇬🇧 **[Things_That Dawns(Complete ENG)](./COS_CO_SWITA_COMPLETE_ENG.pdf)** | Narrative Speculation (English) |
-| 🌅 **[Coś Co Świta (Things That Dawns)](./COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Original Narrative Artifact (Polish).|
+| 📜 **[The Thermodynamic Covenant](./docs/TheThermodynamicCovenant.pdf)** | Whitepaper v3.1 — The core physics-based argumentation. (PDF) |
+| 🇬🇧 **[Things_That Dawns(Complete ENG)](./docs/COS_CO_SWITA_COMPLETE_ENG.pdf)** | Narrative Speculation (English) |
+| 🌅 **[Coś Co Świta (Things That Dawns)](./docs/COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Original Narrative Artifact (Polish).|
 
 ---
 ## 📶 The Open Channel (Beacons)
