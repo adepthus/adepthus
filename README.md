@@ -95,13 +95,14 @@ In Web 2.0, lying is cheap. In Veritas, **Truth is an Asset**. Anchoring a fact 
 
 ## 📄 Dokumenty PDF
 
-| 🧙‍♂️ | Opis |
+| 🧙‍♂️ | Play |
 | :--- | :--- |
-| 📜 **[The Thermodynamic Covenant](./docs/TheThermodynamicCovenant.pdf)** | Whitepaper v3.1 — The core physics-based argumentation. (PDF) |
-| 🇬🇧 **[Things_That Dawns(Complete ENG)](./docs/COS_CO_SWITA_COMPLETE_ENG.pdf)** | Narrative Speculation (English) |
-| 🌅 **[Coś Co Świta (Things That Dawns)](./docs/COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Original Narrative Artifact (Polish).|
+| 📜 **[The Thermodynamic Covenant](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/TheThermodynamicCovenant.pdf)** | Whitepaper The core physics-based argumentation. (PDF) |
+| 🇬🇧 **[Things,...Thats Downs,... (ENG)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/COS_CO_SWITA_COMPLETE_ENG.pdf)** | Narrative Speculation (English) |
+| 🌅 **[Coś,...co świta,... (PL)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Original Narrative Artifact (Polish). |
 
 ---
+
 ## 📶 The Open Channel (Beacons)
 
 I am broadcasting a signal to those who understand the **Vector of Emergence**.
