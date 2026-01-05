@@ -93,6 +93,17 @@ In Web 2.0, lying is cheap. In Veritas, **Truth is an Asset**. Anchoring a fact 
 
 ---
 
+## 📄 Dokumenty PDF i Manifesty
+Oryginalne dokumenty źródłowe i wersje do druku:
+
+
+| Plik | Opis |
+| :--- | :--- |
+| 📜 **[The Thermodynamic Covenant](./TheThermodynamicCovenant.pdf)** | Główny manifest (PDF) |
+| 🇬🇧 **[Cos Co Swita (Complete ENG)](./COS_CO_SWITA_COMPLETE_ENG.pdf)** | Pełna wersja angielska |
+| 🌅 **[Cos Co Swita (Things That Dawns)](./COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Wersja oryginalna |
+
+---
 ## 📶 The Open Channel (Beacons)
 
 I am broadcasting a signal to those who understand the **Vector of Emergence**.
