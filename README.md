@@ -99,9 +99,9 @@ Oryginalne dokumenty źródłowe i wersje do druku:
 
 | Plik | Opis |
 | :--- | :--- |
-| 📜 **[The Thermodynamic Covenant](./TheThermodynamicCovenant.pdf)** | Główny manifest (PDF) |
-| 🇬🇧 **[Cos Co Swita (Complete ENG)](./COS_CO_SWITA_COMPLETE_ENG.pdf)** | Pełna wersja angielska |
-| 🌅 **[Cos Co Swita (Things That Dawns)](./COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Wersja oryginalna |
+| 📜 **[The Thermodynamic Covenant](./TheThermodynamicCovenant.pdf)** | Whitepaper v3.1 — The core physics-based argumentation. (PDF) |
+| 🇬🇧 **[Cos Co Swita (Complete ENG)](./COS_CO_SWITA_COMPLETE_ENG.pdf)** | Narrative Speculation (English) |
+| 🌅 **[Cos Co Swita (Things That Dawns)](./COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Original Narrative Artifact (Polish).|
 
 ---
 ## 📶 The Open Channel (Beacons)
@@ -121,7 +121,7 @@ I am broadcasting a signal to those who understand the **Vector of Emergence**.
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/adepthus)
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-%23FF9900.svg?style=for-the-badge&logo=bitcoin&logoColor=white)](.)
 
-`System Status: STANDBY` | `Operator: ADEPTHUS`
+`System Status: STANDBY` | `Operator: adepthus`
 
 *"Vires in Numeris. Veritas in Tempore."*
 
