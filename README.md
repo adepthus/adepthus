@@ -93,11 +93,9 @@ In Web 2.0, lying is cheap. In Veritas, **Truth is an Asset**. Anchoring a fact 
 
 ---
 
-## 📄 Dokumenty PDF i Manifesty
-Oryginalne dokumenty źródłowe i wersje do druku:
+## 📄 Dokumenty PDF
 
-
-| Plik | Opis |
+| 🧙‍♂️ | Opis |
 | :--- | :--- |
 | 📜 **[The Thermodynamic Covenant](./TheThermodynamicCovenant.pdf)** | Whitepaper v3.1 — The core physics-based argumentation. (PDF) |
 | 🇬🇧 **[Things_That Dawns(Complete ENG)](./COS_CO_SWITA_COMPLETE_ENG.pdf)** | Narrative Speculation (English) |
