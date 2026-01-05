@@ -45,7 +45,7 @@ My work is structured as a living organism, evolving from historical artifacts i
 
 ---
 
-### 2. 🌐 The Nexus (The Current State)
+### 2. 🌐 Neuro-Symbolic Truth Engine with Thermodynamic AI Alignment (The Current State)
 **🏛️ [Veritas-Protocol-Network](https://github.com/adepthus/Veritas-Protocol-Network)**
 > *The "What". The central nervous system of the project. A decentralized network for verifying moral alignment in AI systems.*
 
