@@ -97,7 +97,7 @@ In Web 2.0, lying is cheap. In Veritas, **Truth is an Asset**. Anchoring a fact 
 
 | 🧙‍♂️ | Play |
 | :--- | :--- |
-| 📜 **[The Thermodynamic Covenant](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/TheThermodynamicCovenant.pdf)** | Whitepaper The core physics-based argumentation. (PDF) |
+| 📜 **[The Thermodynamic Covenant](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/TheThermodynamicCovenant.pdf)** | Whitepaper The core physics-based argumentation. ver.3.3 12.01.2026 (PDF) |
 | 📜 **[Short Attention Span Edition](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/Veritas_The_Thermodynamic_Covenant.pdf)** | TL;DR (Too Long; Didn't Read) Holographic Briefing. (PDF) |
 | 🇬🇧 **[Things,... That's Downs,... (ENG)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/COS_CO_SWITA_COMPLETE_ENG.pdf)** | Narrative Speculation (English) |
 | 🌅 **[Coś,... Co Świta,... (PL)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Original Narrative Artifact (Polish). |
