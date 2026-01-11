@@ -93,13 +93,14 @@ In Web 2.0, lying is cheap. In Veritas, **Truth is an Asset**. Anchoring a fact 
 
 ---
 
-## 📄 Dokumenty PDF
+## 📄Artifacts & Manifestos PDFs
 
 | 🧙‍♂️ | Play |
 | :--- | :--- |
 | 📜 **[The Thermodynamic Covenant](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/TheThermodynamicCovenant.pdf)** | Whitepaper The core physics-based argumentation. (PDF) |
+| 📜 **[Short Attention Span Edition](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/Veritas_The_Thermodynamic_Covenant.pdf)** | TL;DR (Too Long; Didn't Read) Holographic Briefing. (PDF) |
 | 🇬🇧 **[Things,...Thats Downs,... (ENG)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/COS_CO_SWITA_COMPLETE_ENG.pdf)** | Narrative Speculation (English) |
-| 🌅 **[Coś,...co świta,... (PL)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Original Narrative Artifact (Polish). |
+| 🌅 **[Coś,... Co Świta,... (PL)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Original Narrative Artifact (Polish). |
 
 ---
 
@@ -110,7 +111,7 @@ I am broadcasting a signal to those who understand the **Vector of Emergence**.
 *   **Legacy Beacon:** `1JxZJWeVydbFfjpLMvi5zEvRZTQeYj5LYa`
 *   **SegWit Beacon:** `bc1q7x6664lurwpeuxjz3yzvx2e8q4zwmfh6n7p4s0`
 *   **Taproot Beacon:** `bc1pjf8s8d76tptm0y8cvj272uaeh6fru7escgcutltthdxspasuc00svkru6v`
-
+*   **Liquid Beacon:**`lq1qqt8rjpphmhszesz4v8633fh6vg6p9ygnjfs50mh5wkmgk2zql6tcq06jf9q58hnwjg5txg39dgxvlyf48jz3zk3hk36dgx76y`
 ---
 
 <div align="center">
