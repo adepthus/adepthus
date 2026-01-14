@@ -101,8 +101,8 @@ In Web 2.0, lying is cheap. In Veritas, **Truth is an Asset**. Anchoring a fact 
 | 📜 **[Short Attention Span Edition](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/Veritas_The_Thermodynamic_Covenant.pdf)** | TL;DR (Too Long; Didn't Read) Holographic Briefing. (PDF) |
 | 🇬🇧 **[Things,...Thats Downs,... (ENG)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/COS_CO_SWITA_COMPLETE_ENG.pdf)** | Narrative Speculation (English) |
 | 🌅 **[Coś,...co Świta,... (PL)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Original Narrative Artifact (Polish). |
-| 🇬🇧 **[Governance Paper v1.0 (EN)](docs/VERITAS_GOVERNANCE_PAPER_v1.0_EN.md)** | Decentralized Epistemic Governance via Thermodynamic Truth Markets. |
-| 🏛️ **[Governance Paper v1.0 (PL)](docs/VERITAS_GOVERNANCE_PAPER_v1.0_PL.md)** | Zdecentralizowane Zarządzanie Epistemiczne poprzez Termodynamiczne Rynki Prawdy. |
+| 🇬🇧 **[Governance Paper v1.0 (EN)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/VERITAS_GOVERNANCE_PAPER_v1.0_EN.md)** | Decentralized Epistemic Governance via Thermodynamic Truth Markets. |
+| 🏛️ **[Governance Paper v1.0 (PL)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/VERITAS_GOVERNANCE_PAPER_v1.0_PL.md)** | Zdecentralizowane Zarządzanie Epistemiczne poprzez Termodynamiczne Rynki Prawdy. |
 
 ---
 
