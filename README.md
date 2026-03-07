@@ -93,16 +93,16 @@ In Web 2.0, lying is cheap. In Veritas, **Truth is an Asset**. Anchoring a fact 
 
 ---
 
-## 📄Artifacts & Manifestos PDFs
+## 🗄️ Epistemic Mass: The Core Dumps & Blueprints
 
-| 🧙‍♂️ | Play |
+| 🧙‍♂️ Enter the Latent Space | Decode the Foundation |
 | :--- | :--- |
-| 📜 **[The Thermodynamic Covenant](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/TheThermodynamicCovenant.pdf)** | Whitepaper The core physics-based argumentation. ver.3.3 (PDF) |
-| 📜 **[Short Attention Span Edition](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/Veritas_The_Thermodynamic_Covenant.pdf)** | TL;DR (Too Long; Didn't Read) Holographic Briefing. (PDF) |
-| 🇬🇧 **[Things,...Thats Downs,... (ENG)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/COS_CO_SWITA_COMPLETE_ENG.pdf)** | Narrative Speculation (English) |
-| 🌅 **[Coś,...co Świta,... (PL)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Original Narrative Artifact (Polish). |
-| 🇬🇧 **[Governance Paper v1.0 (EN)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/VERITAS_GOVERNANCE_PAPER_v1.0_EN.md)** | Decentralized Epistemic Governance via Thermodynamic Truth Markets. |
-| 🏛️ **[Governance Paper v1.0 (PL)](https://github.com/adepthus/Veritas-Protocol-Network/blob/master/docs/VERITAS_GOVERNANCE_PAPER_v1.0_PL.md)** | Zdecentralizowane Zarządzanie Epistemiczne poprzez Termodynamiczne Rynki Prawdy. |
+| 📜 **[The Thermodynamic Covenant](https://github.com/adepthus/Veritas-Protocol-Network/blob/main/docs/theory/THERMODYNAMIC_ALIGNMENT_PAPER_v8_1.pdf)** | Whitepaper The core physics-based argumentation. ver.8.1 (PDF) |
+| 📜 **[Short Attention Span Edition](https://github.com/adepthus/Veritas-Protocol-Network/tree/main/archive/previous_iterations/legacy_v2o/docs/Veritas_The_Thermodynamic_Covenant.pdf)** | TL;DR (Too Long; Didn't Read) Holographic Briefing. (PDF) |
+| 🇬🇧 **[Things,... Thats Downs,... (ENG)](https://github.com/adepthus/Veritas-Protocol-Network/blob/main/archive/previous_iterations/legacy_v2o/docs/COS_CO_SWITA_COMPLETE_ENG.pdf)** | Narrative Speculation (English) |
+| 🌅 **[Coś,... co Świta,... (PL)](https://github.com/adepthus/Veritas-Protocol-Network/blob/main/archive/previous_iterations/legacy_v2o/docs/COS_CO_SWITA_THINGS_THAT_DAWNS.pdf)** | Original Narrative Artifact (Polish). |
+| 🇬🇧 **[Governance Paper v4.2 (EN)](https://github.com/adepthus/Veritas-Protocol-Network/blob/main/docs/governance/Veritas_Governance_Paper_v4_2.md)** | Decentralized Epistemic Governance via Thermodynamic Truth Markets. |
+
 
 ---
 
