@@ -46,7 +46,7 @@ My work is structured as a living organism, evolving from historical artifacts i
 ---
 
 ### 2. 🌐 Neuro-Symbolic Truth Engine with Thermodynamic AI Alignment (The Current State)
-**🏛️ [Veritas-Protocol-Network](https://github.com/adepthus/Veritas-Protocol-Network)**
+**🏛️ [Veritas-Protocol-Network](https://github.com/adepthus/Veritas-Protocol-Network)**  👉  https://veritas-protocol.network/
 > *The "What". The central nervous system of the project. A decentralized network for verifying moral alignment in AI systems.*
 
 This network is the **emergent evolution** of my earlier research into algorithmic empathy. It operationalizes the philosophy that truth must be agnostic and physically anchored.
